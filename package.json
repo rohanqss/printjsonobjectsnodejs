@@ -9,7 +9,5 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@thiagoelg/node-printer": "^0.6.2",
-    "printer": "^0.4.0"
-  }
+    "@thiagoelg/node-printer": "^0.6.2"  }
 }
